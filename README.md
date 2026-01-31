@@ -258,7 +258,3 @@ sudo ufw allow 64738/udp
 ## License
 
 This project is licensed under the **GNU General Public License v3.0 or later (GPL-3.0-or-later)**.
-
-You should include a `COPYING` file containing the full GPLv3 text in the repository, and keep this notice in place.
-
-SPDX-License-Identifier: GPL-3.0-or-later
